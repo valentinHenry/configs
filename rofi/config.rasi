@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,ssh,file-browser";
+ theme: "solarized";
+ font: "Helvetica Neue 15";
+ combi-modi: "window,drun,ssh";
+}
